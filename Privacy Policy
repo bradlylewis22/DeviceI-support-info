@@ -1,0 +1,10 @@
+Privacy Policy
+Device Support Information is a simple utility extension for managed ChromeOS devices.
+This extension does not collect, store, or transmit any personal data. It only displays device information (Serial Number, Asset ID, IP Address, etc.) locally using official Chrome Enterprise APIs.
+
+No data is sent to external servers.
+No analytics, tracking, or third-party services are used.
+The extension works completely offline.
+
+All information is shown only inside the extension popup for support purposes.
+Contact: [Your Email Address]
